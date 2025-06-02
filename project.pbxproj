@@ -92,6 +92,7 @@
 		A248CA172DE5676F002286FF /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		A29999BB2DE56394001BC02A /* CocktailsList.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CocktailsList.storyboard; sourceTree = "<group>"; };
 		A2B4D7ED2DE511F8009DF528 /* TextfieldDesing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldDesing.swift; sourceTree = "<group>"; };
+		FA1E55822DEDB5EF00294131 /* File.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = File.txt; sourceTree = "<group>"; };
 		FA253BC42DE9386F004174BC /* DetailCocktailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailCocktailsViewController.swift; sourceTree = "<group>"; };
 		FA2EC6EC2DE9152400940A22 /* CocktailsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailsListViewController.swift; sourceTree = "<group>"; };
 		FA2EC6EF2DE9182200940A22 /* DetailCocktails.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DetailCocktails.storyboard; sourceTree = "<group>"; };
@@ -187,6 +188,7 @@
 		A220A23A2DE4F23B009CA792 = {
 			isa = PBXGroup;
 			children = (
+				FA1E55822DEDB5EF00294131 /* File.txt */,
 				A220A2452DE4F23B009CA792 /* IntercamTesting */,
 				A220A25C2DE4F23E009CA792 /* IntercamTestingTests */,
 				A220A2662DE4F23E009CA792 /* IntercamTestingUITests */,
